@@ -16,7 +16,7 @@ decision. If the user wants a vacancy post instead, use `vaga-instagram`.
 
 - Template: `assets/feed.html`. Fill the placeholders only; **do not** edit
   colors, layout, background or logo position.
-- Background: `assets/fundo-aniversario.png` (dourado com glitter e seda).
+- Background: `assets/fundo-aniversario.png` (dourado e alaranjado com glitter).
   Square source, square canvas — it fits without cropping.
 - Logo: `assets/faepen-logo.png` (official, transparent), bottom-right, on the
   same axis as the date. No other logo.
